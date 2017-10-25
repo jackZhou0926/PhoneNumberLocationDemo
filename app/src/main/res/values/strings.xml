@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">PhoneNumberLocationDemo</string>
+    <string name="app_name">手机号码归属地查询</string>
+    <string name="please_input_phone_number">请输入手机号码</string>
+    <string name="click_query">点击查询</string>
+    <string name="phone_number">手机号：</string>
+    <string name="phone_province">省份：</string>
+    <string name="operator">运营商：</string>
+    <string name="location_operator">归属运营商：</string>
 </resources>
